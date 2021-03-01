@@ -6,9 +6,13 @@
       <sourceFolder url="file://$MODULE_DIR$/data_type/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/composite_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/data_type/target" />
       <excludeFolder url="file://$MODULE_DIR$/composite_type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/function/target" />
+      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
