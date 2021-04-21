@@ -9,12 +9,14 @@
       <sourceFolder url="file://$MODULE_DIR$/function/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/circle/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/struct_type/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
       <excludeFolder url="file://$MODULE_DIR$/data_type/target" />
       <excludeFolder url="file://$MODULE_DIR$/composite_type/target" />
       <excludeFolder url="file://$MODULE_DIR$/function/target" />
       <excludeFolder url="file://$MODULE_DIR$/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/circle/target" />
+      <excludeFolder url="file://$MODULE_DIR$/struct_type/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
